@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PR_11\PR_11\bin\Debug\PR_11.exe.config
+C:\Users\User\source\repos\PR_11\PR_11\bin\Debug\PR_11.exe
+C:\Users\User\source\repos\PR_11\PR_11\bin\Debug\PR_11.pdb
+C:\Users\User\source\repos\PR_11\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PR_11\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PR_11\PR_11\obj\Debug\PR_11.exe
+C:\Users\User\source\repos\PR_11\PR_11\obj\Debug\PR_11.pdb
